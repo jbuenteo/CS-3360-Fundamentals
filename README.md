@@ -24,3 +24,4 @@ A05019468
 ''' bash
 python assignment1.py
 '''
+# Repo successfully configued
